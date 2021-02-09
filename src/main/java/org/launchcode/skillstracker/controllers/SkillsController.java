@@ -71,7 +71,7 @@ public class SkillsController {
         return "<html>" +
                     "<body>" +
                         "<table>" +
-                            "<tr><th><h1>" + name + "</h1></th><tr>" +
+                            "<tr><th><h1>" + name + "</h1></th></tr>" +
                             "<tr><td>" + language1 + "</td></tr>" +
                             "<tr><td>" + language2 + "</td></tr>" +
                             "<tr><td>" + language3 + "</td></tr>" +
